@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Neugelb</string>
+    <string name="bottom_bar_list">movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="moviename">Movie Name : </string>
+    <string name="overview"> Overview : </string>
+    <string name="release">Release Date : </string>
+    <string name="vote_average">Vote_Average : </string>
+    <string name="popularity">Popularity : </string></resources>
