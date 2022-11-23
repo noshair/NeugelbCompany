@@ -6,7 +6,7 @@
     app:startDestination="@id/discoverMoviesFragment">
     <fragment
         android:id="@+id/discoverMoviesFragment"
-        android:name="com.neugelbcom.section.discovermovie.ui.DiscoverMoviesFragment"
+        android:name="com.eea_tech_interview.section.discovermovie.ui.DiscoverMoviesFragment"
         android:label="DiscoverMoviesFragment" >
         <action
             android:id="@+id/action_discoverMoviesFragment_to_detailMovieFragment"
@@ -14,7 +14,7 @@
     </fragment>
     <fragment
         android:id="@+id/detailMovieFragment"
-        android:name="com.neugelbcom.section.detailmovie.ui.DetailMovieFragment"
+        android:name="com.eea_tech_interview.section.detailmovie.ui.DetailMovieFragment"
         android:label="fragment_detail_movie"
         tools:layout="@layout/fragment_detail_movie" />
 </navigation>
